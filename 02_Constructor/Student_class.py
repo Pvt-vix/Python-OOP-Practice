@@ -4,7 +4,7 @@ class student:
         self.age =age
         self.grade = grade
 
-student1 = student("John", 15, "A+") 
+student1 = student("John", 20, "A+") 
 student2 = student("Alice", 14, "B+") 
 student3 = student("Bob", 16, "A")
 
